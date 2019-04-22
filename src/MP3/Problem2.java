@@ -99,6 +99,7 @@ public class Problem2 {
                 index = 0;
             }
             System.out.println();
+            System.out.println("done");
         }
     }
 }
